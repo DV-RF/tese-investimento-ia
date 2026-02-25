@@ -10,11 +10,11 @@ Este projeto apresenta uma síntese estratégica de investimentos baseada no pro
 
 Abaixo, você pode conferir a síntese completa da tese. O vídeo detalha a aplicação prática dos conceitos de Graham e Bazin, filtrados por uma perspectiva de gestão de risco.
 
-### 📺 Apresentação da Tese (Análise Narrada)
+## 📺 Apresentação da Tese (Análise Narrada)
 
-[![Assista ao Vídeo](capa.png)](https://github.com/DV-RF/tese-investimento-ia/blob/main/analisando-tese-de-investimento_NaRMUKsp.mp4?raw=true)
+Clique na imagem abaixo para assistir ao vídeo completo da tese hospedado no Vimeo:
 
-> 💡 **Dica:** Clique na imagem acima para abrir o player de vídeo do projeto.
+[![Assista ao Vídeo](capa.png)](https://vimeo.com/1167956087?share=copy)
 
 ---
 
